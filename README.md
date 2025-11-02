@@ -17,6 +17,11 @@ Infra: MySQL · PostgreSQL · Docker
 
 ---
 
+### Currently Exploring
+Local-first architectures · AI-powered UX workflows · Edge deployment strategies
+
+---
+
 ### Links
 [whoami.slightlyprivate.com](https://whoami.slightlyprivate.com) • [LinkedIn](https://linkedin.com/in/slightlyprivate)
 
