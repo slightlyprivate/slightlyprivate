@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Matt 👋  
+Full-stack engineer and creative technologist based in Florida.  
+I build privacy-centric and AI-assisted tools under the **Slightly Better / Slightly Private** umbrella.
 
-<!--
-**slightlyprivate/slightlyprivate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Current Projects
+- **Cosmic Blueprint** — offline Python toolkit for computing natal charts.  
+- **CSV Dashgen** — TypeScript app turning CSVs into dynamic dashboards.  
 
-Here are some ideas to get you started:
+### 🧰 Stack
+React / Vite / TypeScript • Node • PHP / NestJS • Python • Laravel / FastAPI • PostgreSQL • Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Links
+[whoami.slightlyprivate.com](https://whoami.slightlyprivate.com) • [LinkedIn](https://linkedin.com/in/slightlyprivate)
