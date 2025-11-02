@@ -5,8 +5,9 @@ I build privacy-centric and AI-assisted tools under the **Slightly Better / Slig
 ---
 
 ### Current Projects
-- **Cosmic Blueprint** — offline Python toolkit for computing natal charts.  
-- **CSV Dashgen** — TypeScript app turning CSVs into dynamic dashboards.  
+- **[Cosmic Blueprint](https://github.com/slightlyprivate/cosmic-blueprint)** — offline Python toolkit for computing natal charts.  
+- **[CSV Dashgen](https://github.com/slightlyprivate/csv-dashgen)** — TypeScript app turning CSVs into dynamic dashboards.  
+- **[Whoami](https://github.com/slightlyprivate/whoami)** — Personal identity portal built with Vite + TypeScript, serving as a privacy-focused digital calling card.
 
 ---
 
