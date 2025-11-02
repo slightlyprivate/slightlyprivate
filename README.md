@@ -13,3 +13,5 @@ Infra: MySQL · PostgreSQL · Docker
 
 ### Links
 [whoami.slightlyprivate.com](https://whoami.slightlyprivate.com) • [LinkedIn](https://linkedin.com/in/slightlyprivate)
+
+> “Coding quietly, building deliberately.”
