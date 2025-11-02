@@ -7,7 +7,9 @@ I build privacy-centric and AI-assisted tools under the **Slightly Better / Slig
 - **CSV Dashgen** — TypeScript app turning CSVs into dynamic dashboards.  
 
 ### Stack
-React / Vite / TypeScript • Node • PHP / NestJS • Python • Laravel / FastAPI • PostgreSQL • Docker  
+Frontend: React + TypeScript (Vite)  
+Backend: Node (NestJS) · PHP (Laravel) · Python (FastAPI)  
+Infra: MySQL · PostgreSQL · Docker
 
 ### Links
 [whoami.slightlyprivate.com](https://whoami.slightlyprivate.com) • [LinkedIn](https://linkedin.com/in/slightlyprivate)
