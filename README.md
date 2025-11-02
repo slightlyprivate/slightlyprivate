@@ -1,4 +1,4 @@
-# Matt H. 
+# Hello
 Full-stack engineer and creative technologist based in Florida.  
 I build privacy-centric and AI-assisted tools under the **Slightly Better / Slightly Private** umbrella.
 
