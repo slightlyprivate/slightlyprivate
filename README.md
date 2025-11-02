@@ -2,6 +2,8 @@
 Full-stack engineer and creative technologist based in Florida.  
 I build privacy-centric and AI-assisted tools under the **Slightly Better / Slightly Private** umbrella.
 
+---
+
 ### Current Projects
 - **Cosmic Blueprint** — offline Python toolkit for computing natal charts.  
 - **CSV Dashgen** — TypeScript app turning CSVs into dynamic dashboards.  
