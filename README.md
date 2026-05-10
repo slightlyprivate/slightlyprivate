@@ -24,6 +24,12 @@ A privacy-conscious personal identity portal and public profile.
 
 A small independent product studio for focused web products, websites, automation experiments, and practical tools.
 
+### [Last Message Wins](https://lastmessagewins.com)
+
+A live Slightly Better Labs novelty experiment where the final paid message before midnight Eastern becomes the next day’s featured homepage message.
+
+Built around a simple Stripe Checkout flow, production deployment, branded result pages, SEO basics, and a deliberately lightweight MVP.
+
 ### CSV DashGen
 
 A privacy-focused web app that transforms CSV files into interactive dashboards with automatic analysis, charts, and insights.
