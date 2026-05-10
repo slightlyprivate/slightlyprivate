@@ -26,7 +26,7 @@ A small independent product studio for focused web products, websites, automatio
 
 ### [Last Message Wins](https://lastmessagewins.com)
 
-A live Slightly Better Labs novelty experiment where the final paid message before midnight Eastern becomes the next day’s featured homepage message.
+A novelty experiment where the final paid message before midnight Eastern becomes the next day’s featured homepage message.
 
 ### CSV DashGen
 
