@@ -46,13 +46,13 @@ An internal operations platform for nonprofit contest management, built to suppo
 
 **Focus:** Node.js, TypeScript, React, SQLite, CSV imports, admin workflows, nonprofit operations
 
-### Petcare Companion
+### [Petcare Companion](https://github.com/slightlyprivate/petcare-companion)
 
 A Laravel REST API for pet and appointment management, demonstrating backend architecture, API design, Docker containerization, and documentation practices.
 
 **Focus:** Laravel, REST APIs, Docker, MVC architecture, backend documentation
 
-### Cosmic Blueprint
+### [Cosmic Blueprint](https://github.com/slightlyprivate/cosmic-blueprint)
 
 An offline Python toolkit for computing natal chart data and exporting structured JSON, YAML, and XML.
 
