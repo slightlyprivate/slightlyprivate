@@ -1,98 +1,116 @@
 # Matt H.
 
-**Full-stack developer** building practical web applications, workflow tools, data-informed products, and small shipped web experiments.
+**Full-stack software engineer** building production-oriented web applications, developer infrastructure, data tools, and independent software products.
 
-I work primarily with **React, TypeScript, Node.js, PHP/Laravel, SQL databases, Docker, GitHub Actions, Cloudflare, AWS, and GCP**.
+I work primarily with **PHP/Laravel, React, TypeScript, Python, PostgreSQL, Docker, GitHub Actions, Cloudflare, and Linux**.
 
-Open to **full-stack, frontend, application developer, software engineering, and workflow automation roles**, especially remote or hybrid opportunities.
+I like taking ideas all the way from architecture and implementation through testing, deployment, security, and the actual user experience.
 
-## About
+Currently open to **full-stack, application development, software engineering, and web platform roles**, with a preference for work where I can own meaningful pieces of a product end to end.
 
-I’m a full-stack developer with 10+ years of experience building production-ready web applications, APIs, internal tools, content systems, dashboards, and automation workflows.
+## What I Build
 
-My background spans software engineering, media systems, nonprofit technology, data/reporting workflows, and independent product development. I’m especially strong at turning messy real-world processes into simpler, maintainable systems.
+Most of my work falls somewhere between product engineering and practical problem-solving:
 
-## Current Focus
+* full-stack web applications and APIs
+* internal tools and workflow systems
+* deterministic computation and data-processing systems
+* dashboards and visualization
+* authentication and role-based applications
+* Dockerized development and production environments
+* CI/CD, deployment automation, and infrastructure
+* small independent products and experiments
 
-- Full-stack web applications with React, TypeScript, Node.js, PHP/Laravel, and SQL databases
-- Workflow automation, internal tools, reporting systems, and operational dashboards
-- Cloud-native deployment with Docker, GitHub Actions, Cloudflare, AWS, and GCP
-- Privacy-conscious tools, small SaaS experiments, and practical product prototypes
-- Systems that help teams organize work, reduce manual effort, and make better decisions
+I’m especially interested in systems where the engineering has to survive contact with messy real-world requirements.
 
 ## Featured Work
 
-### Company Call
+### [Cosmic Blueprint](https://cosmic-blueprint.slightlyprivate.com/)
 
-A production coordination platform for community theatre teams, designed to centralize announcements, schedules, files, conflicts, and production communication.
+A deterministic astrology computation and visualization platform built around reproducible chart data rather than opaque generated results.
 
-**Focus:** Laravel API, React/Vite frontend, PostgreSQL, role-based access, production workflows, mobile-first UX
+The project has grown from a Python calculation toolkit into a larger product stack with provider-independent astronomical computation, a private application API, a React frontend, natal-chart modeling, lifetime transit analysis, interactive visualization, and exportable visual artifacts.
 
-### [CSV DashGen](https://github.com/slightlyprivate/csv-dashgen)
+Current work includes a lifetime matrix that models long-term planetary activity across a person’s life and turns the resulting structured data into an explorable visual system.
 
-A privacy-focused web app that transforms CSV files into interactive dashboards with automatic analysis, charts, and exploratory insights.
+**Engineering:** Python, React, TypeScript, PostgreSQL, REST APIs, Skyfield/JPL ephemerides, Docker, GitHub Actions, automated testing, reproducible computation, visualization, CI/CD
 
-**Focus:** React, TypeScript, CSV processing, data visualization, privacy-conscious local workflows
+---
 
-### [Cosmic Blueprint](https://github.com/slightlyprivate/cosmic-blueprint)
+### [CompanyCall](https://companycall.app/)
 
-An offline Python toolkit for computing natal chart data and exporting structured JSON, YAML, and XML.
+A private production workspace for community theatre teams.
 
-**Focus:** Python, structured data, offline computation, export pipelines
+CompanyCall brings announcements, schedules, files, conflicts, and production communication into one system instead of scattering them across Facebook groups, text threads, email, and PDFs.
+
+It is currently running as an invitation-only private beta.
+
+**Engineering:** Laravel, React, TypeScript, PostgreSQL, role-based access control, automated testing, production workflows, responsive application UX
+
+---
+
+### [Spread Your Sheets](LIVE_SITE_URL_HERE)
+
+A privacy-first CSV exploration and visualization tool.
+
+Spread Your Sheets analyzes files locally in the browser and generates summaries, column profiles, chart suggestions, data previews, and exploratory visualizations without requiring users to upload their datasets to a server.
+
+**Engineering:** React, TypeScript, browser-side data processing, data visualization, Docker, GitHub Actions, GHCR, Cloudflare, security headers, privacy-conscious analytics
+
+---
 
 ### [Petcare Companion](https://github.com/slightlyprivate/petcare-companion)
 
-A Laravel REST API for pet and appointment management, demonstrating backend architecture, API design, Docker containerization, and documentation practices.
+A Laravel REST API for pet and appointment management, built as a focused example of backend application architecture.
 
-**Focus:** Laravel, REST APIs, Docker, MVC architecture, backend documentation
-
-### Private/Internal Systems
-
-I also build private operational tools and internal systems, including nonprofit contest operations workflows, homelab infrastructure automation, reporting tools, and content management systems.
-
-**Focus:** admin workflows, CSV imports, reconciliation tools, Dockerized services, infrastructure documentation
+**Engineering:** Laravel, REST APIs, Docker, MVC architecture, relational data modeling, API documentation
 
 ## Shipped Experiments
 
+Not everything needs to become a startup. I also build small products to test ideas, mechanics, infrastructure, and whether something is entertaining enough to exist.
+
 ### [Last Message Wins](https://lastmessagewins.com)
 
-A novelty web experiment where the final paid message before midnight Eastern becomes the next day’s featured homepage message.
+A web experiment where the final paid message submitted before midnight Eastern becomes the next day’s featured homepage message.
 
-**Focus:** web product experimentation, Stripe/payment flow concepts, public-facing UX
+Built as a complete public product with payments, moderation, transactional email, analytics, deployment automation, and production infrastructure.
+
+**Engineering:** React, TypeScript, Node.js, Express, PostgreSQL, Stripe, Docker, Cloudflare
 
 ### [I Need Money](https://ineedmoney.lol)
 
-A comedy-first public plea board where anyone can post a short money-related mishap for free.
+A comedy-first public notice board for small financial disasters.
 
-**Focus:** product positioning, lightweight web app architecture, public submission flows, comedy-first UX
+Anyone can post a short money-related mishap, with the project serving as both a product experiment and an excuse to build a deliberately ridiculous piece of software properly.
 
-## Web Presence
+**Engineering:** React, TypeScript, Node.js, Express, PostgreSQL, moderation workflows, Docker, Cloudflare
 
-### [Whoami](https://whoami.slightlyprivate.com)
+## How I Work
 
-A privacy-conscious personal identity portal and public profile.
+I care about shipping, but I also care about what happens after something ships.
 
-### [Slightly Better Company](https://slightlybetter.io)
+That usually means thinking about:
 
-An independent product studio for focused web products, automation experiments, and practical tools.
+* maintainable architecture
+* automated tests
+* static analysis and type safety
+* reproducible development environments
+* deployment and rollback strategy
+* security boundaries
+* observability and operational behavior
+* accessibility and responsive UX
+* documentation that another developer can actually use
 
-## What I Like Building
+I try to keep architecture proportional to the problem while leaving systems in better shape than I found them.
 
-I’m drawn to tools that make real work easier:
+## Background
 
-- internal dashboards
-- admin systems
-- workflow automation
-- reporting tools
-- media/content systems
-- nonprofit and community-impact software
-- practical SaaS prototypes
-- small products with clear mechanics
+I have 10+ years of experience spanning software development, digital media, nonprofit technology, operational systems, reporting workflows, content platforms, and independent product development.
 
-I prefer useful, finished-enough tools over giant unfinished platforms.
+That mixed background has made me particularly comfortable translating real-world processes into software — especially when the requirements start out vague, manual, or scattered across too many tools.
 
-## Links
+## Elsewhere
 
-- Personal profile: [whoami.slightlyprivate.com](https://whoami.slightlyprivate.com)
-- Product studio: [slightlybetter.io](https://slightlybetter.io)
-- LinkedIn: [linkedin.com/in/slightlyprivate](https://www.linkedin.com/in/slightlyprivate)
+* [Personal profile](https://whoami.slightlyprivate.com)
+* [Slightly Better Company](https://slightlybetter.io)
+* [LinkedIn](https://www.linkedin.com/in/slightlyprivate)
